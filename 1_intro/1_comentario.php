@@ -1,11 +1,5 @@
-<?php 
-
-  echo "isso é um comentario";
-  
-   // comentario 
-   
-   /* comentario 2
-    em duas linhas*/
-	
-	# comentario 3
-	?>
+<?php
+$a = "mundo!";
+echo "olá, $a";
+echo 'olá, $a';
+?>
