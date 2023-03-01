@@ -3,10 +3,10 @@
 $a = 1;
 
 
-echo 4a. "<hr>";
+echo $a. "<hr>";
  
 $a += 2;
-echo $a;
+ echo $a;
 
 
 
