@@ -1,8 +1,8 @@
 <?php
 
-$permição = 19; 
+$permissão = 19; 
 
- if ($permição < 18){
+ if ($permissão < 18){
 	 echo 'você não pode entrar aqui! <hr>';
  }else { 
  echo 'seja bem - vindo <hr>';
